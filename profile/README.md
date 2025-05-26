@@ -18,4 +18,3 @@ How can we explore computational sciences? How can we ease the study of computat
 | Repository | Description |
 | ------------- | ------------- |
 | GICAT | The GICAT Tool visualizes code structures of any given code project. It shows the genealogy based a git Repository and uses Regex to match code patterns which are then being rendered in a graph structure. |
-| ICE | The ICE visualizes comments for the most common programming languages such as Python, C/C++, Fortran, etc. It extracts the comments of a software project and links the comments to the code. |
