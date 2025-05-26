@@ -17,4 +17,4 @@ How can we explore computational sciences? How can we ease the study of computat
 
 | Repository | Description |
 | ------------- | ------------- |
-| GICAT | The GICAT Tool visualizes code structures of any given code project. It shows the genealogy based a git Repository and uses Regex to match code patterns which are then being rendered in a graph structure. |
+| [GICAT](https://github.com/css-lab-rwth/gicat) | The GICAT Tool visualizes code structures of any given code project. It shows the genealogy based on a git Repository and uses Regex to match code patterns which are then being rendered in a graph-like structure. |
