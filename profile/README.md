@@ -10,7 +10,7 @@ How do scientific concepts and practices change? How are computational sciences 
 The CSS Lab is building an infrastructure for conducting Computational Science Studies (CSS). It explores traditional Science and Technology Studies methods such as interviews, participatory observation, and text analysis for case studies. A further focus is on the investigation of new methods such as code and programming studies. In the process, software tools are developed in order to support Computational Science Studies.
 
 ## Tools
-How can we explore computational sciences? How can we ease the study of computational sciences? The CSS Lab is building an open science infrastructure for Computational Science Studies. We are programming software tools designed to facilitate case studies on computational sciences in the subfield of code studies. Therefore, our Tools fulfil three demands:<br /><br />
+How can we explore computational sciences? How can we ease the study of computational sciences? The CSS Lab is building an open science infrastructure for Computational Science Studies. We are programming software tools designed to facilitate case studies on computational sciences in the subfield of code studies. Therefore, our Tools fulfill three demands:<br /><br />
 - The CSS Tools visualize software structures in order to better analyse them;
 - The CSS Tools help to conduct code genealogies as well as code comparisons;
 - The CSS Tools help to analyse the scientific content of software projects.
